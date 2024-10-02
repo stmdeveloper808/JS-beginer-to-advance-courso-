@@ -12,8 +12,12 @@
 
 // 1 intudaction for js -- javascript 
 // javascript ek interprayeter language hai or ese   1995 me brend each ne bnaya tha browser ke liye or 2.0 ke sath aaay tha
-//2 word and keyword javascript me kisi word ka koi matlb na ho wo word hai 
-//example ram the chacha apple my you  <=== inka koi matlb nhi hai js me yehi hai word  keyword javascript me kisi word ka koi matlb hai wo word hai 
+
+//2 word and keyword 
+//word==>javascript me kisi word ka koi matlb na ho wo word hai 
+//example ram the chacha apple my you  <=== inka koi matlb nhi hai js me yehi hai word 
+
+//kyword==>keyword javascript me kisi word ka koi matlb hai wo word hai 
 // example var let const if else <=== inka ka use hai js me yehi hai kyword 
 
 // 3 interpreter vs compiler
