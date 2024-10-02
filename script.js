@@ -2,7 +2,7 @@
 //1 js  intudcation ✅
 //2 word and kyword ✅
 //3 compiler vs interpreter✅
-//4 variabl and   of varible✅
+//4 variabl and  typeof varible✅
 //5 variable bante kaise hai and  console and  ✅
 //6 funtion and who to create funtion and   typeof function and  function with peramiter ✅
 //7 condition if else  and else if tarnari oprater ✅
@@ -22,15 +22,16 @@
 
 // 3 interpreter vs compiler
 // example  interpreter  ===> javascript ek interpreter languge hai or ye humare code ko line by line chalane ka kaam karta hai or interpreter apne code  byt code me convert karta hai or ye  convert jaldi hota hai or chalta slow hai  
-// example compiler ===> compiler humare  dusre languege me gota hai jaise c c++ jaise language me hota hai or ye macin code me apne code ko convert karta hai or convert slow  hota hai or chalta fast hai 
-//4 variabl and  6 of varible
+// example compiler ===> compiler humare  dusre languege me gota hai jaise c c++ jaise language me hota hai or ye macin code me apne code ko convert karta hai or convert slow  hota hai or chalta fast hai
+
+//4 variabl 
 // js me kisi deta ko store krne ke lilye humlog variable ka use krte hai varible ek khali container jaisa hai jis me hum koi bhi deta store kar sakte hai 
 // deta hota keya hai ===> example kisi game yaa kisi ka naame store karne ke liye humlog es use krete hai even future  me hum ese change and reset bhi ker sakte hai 
 
 // 5 type of variables 
 // js me 3type ke variable hai 1==> var let const 
-// var ES5 virsion hai or ye  function scoped hai or ye  khud ko window pe add karta hai 
-// let and const ye dono ES6 Virsion hai ye brasese scoped hai or ye khud ko window pe add nhi karta hai 
+// var ES5 version hai or ye  function scoped hai or ye  khud ko window pe add karta hai 
+// let and const ye dono ES6 Version hai ye brasese scoped hai or ye khud ko window pe add nhi karta hai 
 
 // 6 how to crete variable 
 //1 var or ek name or name koi kyword nhi hona chahiye 
@@ -45,7 +46,8 @@
 // jis ki value na badle wo constaint hai 
 // example  const ans  = "satyam"; <==> const ans = "jony"; ye likh ne pe hum erro dega or es ki value change nhi ho sakti hai 
 
-//7 console.log(); hai keya ==> example console ko hum value ya erro print karne ke liye use karte hai 
+//7 console.log(); hai keya ==> example console ko humare code ko print krne ka kaam karta hai yaa value ya erro print karne ke liye use karte hai 
+/// console js ka part nhi hai console browser ka part hai or js hume browser me  jo window hai use leke deta hai or js me bahut aise proparty hai jo js ka part nhi hai 
 
 //8 type of function js es5 me 3type ke funtion hai  
 // example  1 function stament ==>jis ka koi naame ho bt wo kyword name nhi hona chahiye function name (){}
